@@ -1,6 +1,7 @@
 #include<stdio.stdio.h>
-int main()
+int main() 
+  
 
 {
-int array[10]
+int array[10];
 }
