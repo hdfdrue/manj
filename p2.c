@@ -9,5 +9,5 @@ int rev(int n)
 }
 int main()
 {
-    printf("%d",rev(232));
+    printf("%d",rev(23201));
 }
